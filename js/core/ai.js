@@ -11,3 +11,4 @@ function hello() {
 function bye() {
     console.log("AI ВСЕ!");
 }
+window.hello()
